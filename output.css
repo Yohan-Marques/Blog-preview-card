@@ -777,6 +777,21 @@ video {
   color: rgb(107 114 128 / var(--tw-text-opacity));
 }
 
+.text-pink-600 {
+  --tw-text-opacity: 1;
+  color: rgb(219 39 119 / var(--tw-text-opacity));
+}
+
+.text-yellow-100 {
+  --tw-text-opacity: 1;
+  color: rgb(254 249 195 / var(--tw-text-opacity));
+}
+
+.text-black {
+  --tw-text-opacity: 1;
+  color: rgb(0 0 0 / var(--tw-text-opacity));
+}
+
 .transition {
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
@@ -807,12 +822,6 @@ video {
   font-family: 'Figtree';
 
   src: url(../assets/fonts/Figtree-VariableFont_wght.ttf)format('opentype');
-}
-
-@font-face {
-  font-family: 'Figtree-italic';
-
-  src: url(../assets/fonts/Figtree-Italic-VariableFont_wght.ttf) format('opentype');
 }
 
 .hover\:border-r-4:hover {
