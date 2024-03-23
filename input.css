@@ -6,7 +6,3 @@
     font-family: 'Figtree';
     src: url(../assets/fonts/Figtree-VariableFont_wght.ttf)format('opentype');
 }
-@font-face {
-    font-family: 'Figtree-italic';
-    src: url(../assets/fonts/Figtree-Italic-VariableFont_wght.ttf) format('opentype');
-}
