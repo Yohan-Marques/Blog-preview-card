@@ -738,11 +738,7 @@ video {
 }
 
 .font-Figtree {
-  font-family: Figtree;
-}
-
-.font-serif {
-  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  font-family: Figtree, sans-serif;
 }
 
 .font-mono {
@@ -822,9 +818,9 @@ video {
 }
 
 @font-face {
-  font-family: 'Figtree';
+  font-family: "Figtree";
 
-  src: url(../assets/fonts/Figtree-VariableFont_wght.ttf)format('opentype');
+  src: url("./assets/fonts/Figtree-VariableFont_wght.ttf")format('opentype');
 }
 
 .hover\:border-r-4:hover {
