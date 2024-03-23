@@ -5,8 +5,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        Figtree:['Figtree']
-      }
+        Figtree:['Figtree'],
+      },
     },
   },
   plugins: [],
